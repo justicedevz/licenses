@@ -1,0 +1,34 @@
+{
+  "admin": {
+    "username": "admin",
+    "hardware_id": "ADMIN_MASTER_KEY",
+    "expiry": "2099-12-31",
+    "created": "2024-01-15 10:30:00",
+    "status": "active",
+    "notes": "Master Administrator"
+  },
+  "user1": {
+    "username": "user1",
+    "hardware_id": "a1b2c3d4e5f6g7h8i9j0k1l2",
+    "expiry": "2026-01-15",
+    "created": "2024-01-15 10:35:00",
+    "status": "active",
+    "notes": "Premium User - Yearly"
+  },
+  "user2": {
+    "username": "user2",
+    "hardware_id": "b2c3d4e5f6g7h8i9j0k1l2m3",
+    "expiry": "2024-06-30",
+    "created": "2024-01-20 14:20:00",
+    "status": "active",
+    "notes": "Trial User - 6 months"
+  },
+  "user3": {
+    "username": "user3",
+    "hardware_id": "c3d4e5f6g7h8i9j0k1l2m3n4",
+    "expiry": "2024-02-15",
+    "created": "2024-01-25 09:15:00",
+    "status": "revoked",
+    "notes": "Revoked for violation"
+  }
+}
