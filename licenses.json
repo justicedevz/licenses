@@ -4,7 +4,7 @@
     "hardware_id": "bb7c3110db380651b54dffd37201afa9",
     "expiry": "2026-07-18",
     "created": "2024-01-15 10:30:00",
-    "status": "active",
+    "status": "revoked",
     "notes": "Master Administrator"
   },
   "user1": {
