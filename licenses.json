@@ -1,7 +1,7 @@
 {
   "admin": {
     "username": "admin",
-    "hardware_id": "ADMIN_MASTER_KEY",
+    "hardware_id": "bb7c3110db380651b54dffd37201afa9",
     "expiry": "2099-12-31",
     "created": "2024-01-15 10:30:00",
     "status": "active",
