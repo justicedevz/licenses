@@ -1,0 +1,30 @@
+{
+    "justicedevs": {
+        "username": "justicedevs",
+        "expiry": "2030-12-31",
+        "status": "active",
+        "hardware_id": "bb7c3110db380651b54dffd37201afa9",
+        "notes": "Developer License"
+    },
+    "user2": {
+        "username": "user2",
+        "expiry": "2030-12-31",
+        "status": "active",
+        "hardware_id": "1234567890abcdef1234567890abcdef",
+        "notes": "User 2 License"
+    },
+    "user3": {
+        "username": "user3",
+        "expiry": "2028-06-15",
+        "status": "active",
+        "hardware_id": "abcdef1234567890abcdef1234567890",
+        "notes": "Premium User"
+    },
+    "admin": {
+        "username": "admin",
+        "expiry": "2050-12-31",
+        "status": "active",
+        "hardware_id": "00000000000000000000000000000000",
+        "notes": "Administrator - No HWID check"
+    }
+}
