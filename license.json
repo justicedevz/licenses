@@ -15,9 +15,9 @@
     },
     "hetong01": {
         "username": "hetong01",
-        "expiry": "2026-08-15",
+        "expiry": "2030-08-15",
         "status": "active",
-        "hardware_id": "00000000000000000000000000000000",
+        "hardware_id": "beda525736ae14d8673f8079ea1febae",
         "notes": "Premium User"
     },
     "admin": {
