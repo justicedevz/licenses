@@ -33,5 +33,12 @@
         "status": "revoked",
         "hardware_id": "00000000000000000000000000000000",
         "notes": "Administrator - No HWID check"
+    },
+       "ahmed": {
+        "username": "VTN-HD",
+        "expiry": "2026-08-17",
+        "status": "active",
+        "hardware_id": "a48d2a44379ffa76faff7d0b996e62b3",
+        "notes": "Developer License"
     }
 }
