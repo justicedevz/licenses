@@ -40,5 +40,12 @@
         "status": "active",
         "hardware_id": "a48d2a44379ffa76faff7d0b996e62b3",
         "notes": "Developer License"
+    },
+       "DROSBASE": {
+        "username": "DROSBASE",
+        "expiry": "2026-08-28",
+        "status": "active",
+        "hardware_id": "d0e4128b1a20aa07aa720a32b38ff262",
+        "notes": "Developer License"
     }
 }
