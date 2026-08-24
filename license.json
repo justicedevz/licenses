@@ -23,7 +23,7 @@
     "part16manager": {
         "username": "part16manager",
         "expiry": "2026-08-31",
-        "status": "revoked",
+        "status": "active",
         "hardware_id": "f0b0c67aa65f58173eec5be188e6d18a",
         "notes": "Administrator - No HWID check"
     },
