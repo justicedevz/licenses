@@ -20,9 +20,9 @@
         "hardware_id": "a6158f96eaeb94a1b32c3c1f5d9641fa",
         "notes": "Premium User"
     },
-    "admin": {
-        "username": "admin",
-        "expiry": "2050-12-31",
+    "part16manager": {
+        "username": "part16manager",
+        "expiry": "2026-08-31",
         "status": "revoked",
         "hardware_id": "00000000000000000000000000000000",
         "notes": "Administrator - No HWID check"
