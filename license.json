@@ -40,5 +40,12 @@
         "status": "active",
         "hardware_id": "d0e4128b1a20aa07aa720a32b38ff262",
         "notes": "Developer License"
+           },
+       "trr": {
+        "username": "trr",
+        "expiry": "2026-09-20",
+        "status": "revoked",
+        "hardware_id": "d0e4128b1a20aa07aa720a32b38ff2620000000",
+        "notes": "Developer License"
     }
 }
