@@ -1,4 +1,4 @@
 {
   "enabled": true,
-  "expireAt": "2026-08-24T23:59:59Z"
+  "durationHours": 24
 }
