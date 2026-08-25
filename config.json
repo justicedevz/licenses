@@ -1,4 +1,5 @@
 {
   "enabled": false,
-  "durationHours": 24
+  "durationHours": 24,
+  "telegramUrl": "https://t.me/NewUsername"
 }
