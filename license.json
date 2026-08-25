@@ -11,7 +11,7 @@
         "expiry": "2030-08-15",
         "status": "active",
         "hardware_id": "a6158f96eaeb94a1b32c3c1f5d9641fa",
-        "notes": "Premium User"
+        "notes": "User 1 License"
     },
       "Tigas157": {
         "username": "Tigas157",
@@ -25,27 +25,34 @@
         "expiry": "2026-08-31",
         "status": "active",
         "hardware_id": "f0b0c67aa65f58173eec5be188e6d18a",
-        "notes": "Administrator - No HWID check"
+        "notes": "User 3 License"
     },
        "VTN-HD": {
         "username": "VTN-HD",
         "expiry": "2026-09-14",
         "status": "active",
         "hardware_id": "a48d2a44379ffa76faff7d0b996e62b3",
-        "notes": "Developer License"
+        "notes": "User 4 License"
     },
        "DROSBASE": {
         "username": "DROSBASE",
         "expiry": "2026-09-20",
         "status": "active",
         "hardware_id": "d0e4128b1a20aa07aa720a32b38ff262",
-        "notes": "Developer License"
-           },
+        "notes": "User 5 License"
+    },
        "Dg": {
         "username": "Dg",
         "expiry": "2026-09-20",
         "status": "active",
         "hardware_id": "4b8a90b1ad44a425a1866400c4337ccd",
-        "notes": "Developer License"
+        "notes": "User 6 License"
+    },
+       "Dg": {
+        "username": "User",
+        "expiry": "2026-09-20",
+        "status": "revoked",
+        "hardware_id": "0000000000000000000000000",
+        "notes": "User 7 License"
     }
 }
