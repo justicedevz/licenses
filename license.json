@@ -54,5 +54,12 @@
         "status": "revoked",
         "hardware_id": "0000000000000000000000000",
         "notes": "User 7 License"
+    },
+       "User": {
+        "username": "User",
+        "expiry": "2026-09-20",
+        "status": "revoked",
+        "hardware_id": "0000000000000000000000000",
+        "notes": "User 8 License"
     }
 }
