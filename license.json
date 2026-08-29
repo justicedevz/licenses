@@ -54,12 +54,20 @@
         "status": "active",
         "hardware_id": "26e573ffebadb633e57d057d7759a06d",
         "notes": "User 7 License"
+   },
+       "KaranM": {
+        "username": "KaranM",
+        "expiry": "2026-09-05",
+        "status": "active",
+        "hardware_id": "0d440472b0e72f593b0615931bef7f48",
+        "notes": "User 8 License"
     },
        "User": {
         "username": "User",
         "expiry": "2026-09-02",
         "status": "revoked",
         "hardware_id": "0000000000000000000000000",
-        "notes": "User 8 License"
+        "notes": "User 9 License"
+    
     }
 }
