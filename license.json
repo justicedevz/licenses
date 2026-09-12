@@ -37,7 +37,7 @@
        "DROSBASE": {
         "username": "DROSBASE",
         "expiry": "2026-09-20",
-        "status": "active",
+        "status": "revoked",
         "hardware_id": "23d14d9b7faf199f385d07b0e7951612",
         "notes": "User 5 License"
     },
@@ -51,7 +51,7 @@
        "srsr": {
         "username": "srsr",
         "expiry": "2026-09-26",
-        "status": "active",
+        "status": "revoked",
         "hardware_id": "26e573ffebadb633e57d057d7759a06d",
         "notes": "User 7 License"
    },
