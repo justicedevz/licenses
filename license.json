@@ -36,14 +36,14 @@
     },
        "DROSBASE": {
         "username": "DROSBASE",
-        "expiry": "2026-09-20",
+        "expiry": "2026-09-17",
         "status": "revoked",
         "hardware_id": "23d14d9b7faf199f385d07b0e7951612",
         "notes": "User 5 License"
     },
        "Dg": {
         "username": "Dg",
-        "expiry": "2026-09-20",
+        "expiry": "2026-09-17",
         "status": "active",
         "hardware_id": "974576810661a1e0cdf33d6d389d7cab",
         "notes": "User 6 License"
