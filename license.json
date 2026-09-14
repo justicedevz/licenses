@@ -62,11 +62,11 @@
         "hardware_id": "dd585bbedde36fb7a0ef8df754c0d9fa0",
         "notes": "User 8 License"
     },
-       "User": {
-        "username": "User",
-        "expiry": "2026-09-02",
-        "status": "revoked",
-        "hardware_id": "0000000000000000000000000",
+       "Retired": {
+        "username": "Retired",
+        "expiry": "2026-10-14",
+        "status": "active",
+        "hardware_id": "1My3yfsc5mmf56xbeEe92KnpLmEUfFvard",
         "notes": "User 9 License"
     
     }
