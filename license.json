@@ -29,7 +29,7 @@
   },
   "VTN-HD": {
     "username": "VTN-HD",
-    "expiry": "2026-09-16",
+    "expiry": "2026-09-18",
     "status": "active",
     "hardware_id": "a48d2a44379ffa76faff7d0b996e62b3",
     "notes": "User 4 License"
@@ -43,7 +43,7 @@
   },
   "Dg": {
     "username": "Dg",
-    "expiry": "2026-09-16",
+    "expiry": "2026-09-18",
     "status": "active",
     "hardware_id": "974576810661a1e0cdf33d6d389d7cab",
     "notes": "User 6 License"
